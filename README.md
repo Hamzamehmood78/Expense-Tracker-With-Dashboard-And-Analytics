@@ -131,7 +131,7 @@ CLIENT_URL=http://localhost:5173
 
 ## 👨‍💻 Author
 
-GitHub: https://github.com/viratramsisaria-collab
+GitHub: https://github.com/Hamzamehmood78
 
 ## Support
 If you liked this project, give it a star ⭐️ and share it with your friends.
